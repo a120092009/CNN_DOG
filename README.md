@@ -21,7 +21,12 @@ Test Set: Contains 8,580 images, 120 categories.
 # Implementation
 Use VGG19 which is pre-trained on ImageNet and transfer this model for our dog breed classification problem.
 
+vgg_trainable.py: Construction of VGG19 network
+
 Demo.py: Training VGG19
 
 test.py: Get result on test set
-test.
+
+Test_Visualization.ipynb: Get visualization of our model.
+
+Test.ipynb: Get result visualization on test set.
