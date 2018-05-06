@@ -25,8 +25,6 @@ vgg_trainable.py: Construction of VGG19 network
 
 Demo.py: Training VGG19
 
-test.py: Get result on test set
-
 Test_Visualization.ipynb: Get visualization of our model.
 
 Test.ipynb: Get result visualization on test set.
