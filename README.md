@@ -31,7 +31,7 @@ Test.ipynb: Get result visualization on test set.
 # Experiment Setting:
 batch size = 64
 
-Initial learning rate 0.001,decay step = 100, decay rate = 0.9
+Initial learning rate 0.001, decay step = 100, decay rate = 0.9
 
 Activation function: ReLu
 
